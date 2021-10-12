@@ -68,3 +68,12 @@ span {
     margin-bottom: 2rem;
     margin-top: 0;
 }
+
+.card-footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-footer-social {
+    text-align: center;
+}
