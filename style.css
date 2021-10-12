@@ -25,5 +25,8 @@ body {
      height: 100vh;
 }
 .card {
-    
+    background-color: white;
+    width: 326px;
+    border-radius: 16px;
+    overflow: hidden;
 }
