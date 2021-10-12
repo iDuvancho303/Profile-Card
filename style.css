@@ -77,3 +77,9 @@ span {
 .card-footer-social {
     text-align: center;
 }
+
+p {
+    letter-spacing: 1px;
+    margin-top: 2rem;   
+    margin-bottom: 2rem;
+}
